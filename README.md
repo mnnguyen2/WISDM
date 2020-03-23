@@ -2,6 +2,7 @@
 
 ## Introduction
 Using sensor data collected from smartphones and smart watches, I'm creating models that could predict a person's activity. I collected this dataset from the UCI Machine Learning Repository.
+![WISDM Activities] (https://github.com/mnnguyen2/WISDM/blob/master/WISDM%20Activities.png)
 
 ## About the dataset
 
