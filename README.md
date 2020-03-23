@@ -16,7 +16,7 @@ Hand-oriented activities (eating): eating pasta, eating soup, eating sandwich, e
 
 ## About this repository:
 In this repository, you should find the following files:
-1. **arff_python** folder. This folder contains the dataset that I used. I rearranged the files so that I could pull from the folder seemlessly from Python. Data source: https://archive.ics.uci.edu/ml/datasets/
+1. **Project Summary Presentation (PDF)**. This file should give you a good overview of the project (bonus pretty visualizations)and a summary for the model performances. 
 2. **WISDM Python notebook**. This notebook contains the models that I built, tuned, and evaluated to predict the 18 activities. 
-3. **Project Summary Presentation (PDF)**. This file should give you a good overview of the project and a summary for the model performances. 
+3. **arff_python** folder. This folder contains the dataset that I used. I rearranged the files so that I could pull from the folder seemlessly from Python. Data source: https://archive.ics.uci.edu/ml/datasets/
 
