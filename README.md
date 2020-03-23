@@ -19,7 +19,8 @@ Hand-oriented activities (eating): eating pasta, eating soup, eating sandwich, e
 ## About this repository:
 
 In this repo, you can find:
-1. My notebook for the project. In this notebook, I build, tune, and evaluate various Supervised learning models (Random Forest, K-nearest Neighbors, Support Vector Machines) to predict the activities and activity groups. 
-2. My project summary presentation. This would give you a good overview of my models performance and their evaluation metrics comparison. 
+1. The dataset I used for this project. In the folder that I uploaded, the arff data files are re-organized so that I could pull them easily with Python. Data source: https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+
+2. My notebook for the project. In this notebook, I build, tune, and evaluate various Supervised learning models (Random Forest, K-nearest Neighbors, Support Vector Machines) to predict the activities and activity groups. 
+3. My project summary presentation. This would give you a good overview of my models performance and their evaluation metrics comparison. 
 
 
