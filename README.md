@@ -3,7 +3,7 @@
 ## Introduction
 Using sensor data collected from smartphones and smart watches, I'm creating models that could predict a person's activity. The dataset that I used has a total of **93 features and approx. 75k observations**.
 
-![WISDM Activities Bubbles]https://github.com/mnnguyen2/WISDM/blob/master/arff_python/WISDM%20Activities.png
+![WISDM Activities Bubbles](https://github.com/mnnguyen2/WISDM/blob/master/arff_python/WISDM%20Activities.png)
 
 ## About the dataset
 Human activity recognition, or HAR for short, is a broad field of study concerned with identifying the specific movement or action of a person based on sensor data. Being able to sense/ recognize human activity can be a huge asset to many fields including but not limited to healthcare, construction, etc...
